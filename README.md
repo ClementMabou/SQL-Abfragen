@@ -7,7 +7,7 @@ Dieses Projekt wurde im Rahmen der Online-Weiterbildung „SQL Fundamentals for 
 Die Daten stammen aus dem im oben genannten Kurs bereitgestellten Material. Die erforderlichen Informationen zur Verbindung mit der Unternehmensdatenbank befinden sich in der Datei 'SQL Credentials.txt'. Vor Beginn der Arbeit ist die Installation von Azure Data Studio notwendig. Das ERM-Diagramm veranschaulicht die in diesem Projekt verwendeten Tabellen sowie deren Beziehungen zueinander.
 ![alt text](image.png)
 ## Ergebnis
-
+![alt text](image-1.png)
 
 
 
