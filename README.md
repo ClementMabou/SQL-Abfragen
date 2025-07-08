@@ -10,20 +10,10 @@ Die Daten stammen aus dem im oben genannten Kurs bereitgestellten Material. Die 
 In diesem Projekt wurden fünf gezielte SQL-Abfragen durchgeführt, um folgende Fragestellungen zu beantworten:
 
 1. **Welche Kunden haben im Jahr 2013 überdurchschnittlich viel online ausgegeben (inkl. Steuern)?**  
-   → Identifikation besonders umsatzstarker Kunden anhand des Jahresdurchschnitts.
-
-2. **Wie entwickeln sich die monatlichen Online-Bestellzahlen, Bestellmengen und Umsätze (inkl. Steuern) über die Jahre hinweg?**  
-   → Analyse langfristiger Trends und saisonaler Muster im E-Commerce-Geschäft.
-
+2. **Wie entwickeln sich die monatlichen Online-Bestellzahlen, Bestellmengen und Umsätze (inkl. Steuern) über die Jahre hinweg?** 
 3. **Wie verteilt sich der Online-Gesamtumsatz (inkl. Steuern) im Jahr 2013 auf Produktkategorien und Subkategorien, und welchen Anteil trägt jede Gruppe am Gesamtumsatz bei?**  
-   → Hierarchische Umsatzanalyse nach Produkthaupt- und -untergruppen mit Prozentanteilen.
-
 4. **Wie verteilen sich Online-Bestellungen, Mengen und Umsätze (inkl. Steuern) im Jahr 2013 auf verschiedene Verkaufsregionen und Länder?**  
-   → Regionale und nationale Umsatzverteilung zur Erkennung geografischer Schwerpunkte.
-
-5. **Welche fünf Produkte erzielten den höchsten Online-Umsatz (inkl. Steuern), und wie viele Einheiten wurden davon verkauft?**  
-   → Identifikation der Top-Performer im Produktsortiment.
-
+5. **Welche fünf Produkte erzielten den höchsten Online-Umsatz (inkl. Steuern), und wie viele Einheiten wurden davon verkauft?** 
 ![alt text](image-1.png)
 
 
