@@ -9,11 +9,11 @@ Die Daten stammen aus dem im oben genannten Kurs bereitgestellten Material. Die 
 ## Ergebnis
 In diesem Projekt wurden fünf gezielte SQL-Abfragen durchgeführt, um folgende Fragestellungen zu beantworten:
 
-1. **Welche Kunden haben im Jahr 2013 überdurchschnittlich viel online ausgegeben (inkl. Steuern)?**  
-2. **Wie entwickeln sich die monatlichen Online-Bestellzahlen, Bestellmengen und Umsätze (inkl. Steuern) über die Jahre hinweg?** 
-3. **Wie verteilt sich der Online-Gesamtumsatz (inkl. Steuern) im Jahr 2013 auf Produktkategorien und Subkategorien, und welchen Anteil trägt jede Gruppe am Gesamtumsatz bei?**  
-4. **Wie verteilen sich Online-Bestellungen, Mengen und Umsätze (inkl. Steuern) im Jahr 2013 auf verschiedene Verkaufsregionen und Länder?**  
-5. **Welche fünf Produkte erzielten den höchsten Online-Umsatz (inkl. Steuern), und wie viele Einheiten wurden davon verkauft?** 
+1. Welche Kunden haben im Jahr 2013 überdurchschnittlich viel online ausgegeben (inkl. Steuern)? 
+2. Wie entwickeln sich die monatlichen Online-Bestellzahlen, Bestellmengen und Umsätze (inkl. Steuern) über die Jahre hinweg? 
+3. Wie verteilt sich der Online-Gesamtumsatz (inkl. Steuern) im Jahr 2013 auf Produktkategorien und Subkategorien, und welchen Anteil trägt jede Gruppe am Gesamtumsatz bei? 
+4. Wie verteilen sich Online-Bestellungen, Mengen und Umsätze (inkl. Steuern) im Jahr 2013 auf verschiedene Verkaufsregionen und Länder?  
+5. Welche fünf Produkte erzielten den höchsten Online-Umsatz (inkl. Steuern), und wie viele Einheiten wurden davon verkauft?
 ![alt text](image-1.png)
 
 
