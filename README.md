@@ -17,6 +17,6 @@ In diesem Projekt wurden fünf gezielte SQL-Abfragen durchgeführt, um folgende 
 **Die zugehörigen SQL-Skripte liegen im Ordner "SQL_scripts"**. Unten ist ein Screenshot der Ausführung der Abfrage zur fünften Frage dargestellt.
 
 ![alt text](SQL-Abfrageergebnis.png)
-SQL-Abfrageergebnis:Top 5 Online-Produkte nach Umsatz
+SQL-Abfrageergebnis: Top 5 online verkaufte Produkte nach Umsatz
 
 
