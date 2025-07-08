@@ -6,7 +6,7 @@ Dieses Projekt wurde im Rahmen der Online-Weiterbildung „SQL Fundamentals for 
 Die Daten stammen aus dem im oben genannten Kurs . Die Daten stammen aus dem im oben genannten Kurs. **Die erforderlichen Informationen zur Verbindung mit dem Unternehmens-Datenwarehouse befinden sich in der Datei „SQL Credentials.txt“. Vor Beginn der Arbeit ist die Installation von Azure Data Studio notwendig**. Die in diesem Projekt verwendeten Tabellen sowie ihre Beziehungen zueinander sind im folgenden **ERM-Diagramm** dargestellt. 
 
 ![alt text](ERM.png)
-## Ergebnis
+## Ergebnisse
 In diesem Projekt wurden fünf gezielte SQL-Abfragen durchgeführt, um folgende wichtige Fragestellungen zu beantworten:
 1. Welche Kunden haben im Jahr 2013 überdurchschnittlich viel online ausgegeben (inkl. Steuern)? 
 2. Wie entwickeln sich die monatlichen Online-Bestellzahlen, Bestellmengen und Umsätze (inkl. Steuern) über die Jahre hinweg? 
@@ -16,7 +16,7 @@ In diesem Projekt wurden fünf gezielte SQL-Abfragen durchgeführt, um folgende 
 
 **Die zugehörigen SQL-Skripte liegen im Ordner "SQL_scripts"**. Unten ist ein Screenshot der Ausführung der Abfrage zur fünften Frage dargestellt.
 
-![alt text](SQL-Abfrageergebnisse.png)
-SQL-Abfrageergebnisse:Top 5 Online-Produkte nach Umsatz
+![alt text](SQL-Abfrageergebnis.png)
+SQL-Abfrageergebnis:Top 5 Online-Produkte nach Umsatz
 
 
