@@ -13,7 +13,7 @@ In diesem Projekt wurden fünf gezielte SQL-Abfragen durchgeführt, um folgende 
 4. Wie verteilen sich Online-Bestellungen, Mengen und Umsätze (inkl. Steuern) im Jahr 2013 auf verschiedene Verkaufsregionen und Länder?  
 5. Welche fünf Produkte erzielten den höchsten Online-Umsatz (inkl. Steuern), und wie viele Einheiten wurden davon verkauft?
 
-Die zugehörigen SQL-Skripte liegen im Ordner "SQL_scripts". Unten ist ein Screenshot der Ausführung der Abfrage zur fünften Frage dargestellt.
+**Die zugehörigen SQL-Skripte liegen im Ordner "SQL_scripts"**. Unten ist ein Screenshot der Ausführung der Abfrage zur fünften Frage dargestellt.
 
 ![alt text](image-1.png)
 
